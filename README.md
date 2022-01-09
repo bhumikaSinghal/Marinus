@@ -1,3 +1,6 @@
+## Detailed Read
+https://medium.com/adobetech/mapping-your-networks-with-marinus-311a8bd2b26d
+
 # Marinus
 Marinus is a project to track an organization's Internet-facing footprint from the perspective of a third-party. Essentially, what can someone piece together about an organization's network based on publicly available information? That data can then be compared with data from internal sources in order to answer the follow-up question, "What does the Internet know about our organization's network that we don't?" The information that Marinus collects can be used to create network maps, identify shadow IT or legacy infrastructure, and track TLS best practices across your entire company. When a vulnerability arises with a piece of third-party technology or third-party service, engineers can search the Marinus data for usage of that third-party within the organization. Engineers can also feed the lists of collected hosts into their existing security scanning automation to achieve more complete coverage.
 
